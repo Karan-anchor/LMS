@@ -1,1 +1,1 @@
-This is Library Management System using C++.
+Developed a Library Management System using C++ to manage book records efficiently. The system includes core features like adding, searching, updating, displaying, and deleting books using structured programming and arrays. Implemented a menu-driven interface to ensure user-friendly interaction and streamlined operations for small library environments.
